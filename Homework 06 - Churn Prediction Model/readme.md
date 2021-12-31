@@ -1,6 +1,6 @@
 <h1>Churn Prediction Model</h1>
 
-
+<img src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Churn%20Prediction%20Model/Ch1.JPG">
 
 <code>
 SELECT   CW AS WEEK,   NEW_CUST,   REPEAT_CUST,   RETURN_CUST,   REPEAT_CUST - LAG(TOT, 1) OVER(ORDER BY CW) AS CHURN_CUST
