@@ -60,11 +60,4 @@ Details   : 125001 rows, 3 columns
 
 
 
-Reference
-<p align="left">
-<img width="200" alt="1" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png">
-</p>
-https://www.kaggle.com/regivm/retailtransactiondata <br/>
-https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python <br/>
-https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8<br/>
-https://www.datacamp.com/community/tutorials/xgboost-in-python
+
