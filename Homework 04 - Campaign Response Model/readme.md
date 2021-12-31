@@ -13,7 +13,7 @@ Details   : 125001 rows, 3 columns
 <b>Data Checking</b>
 
 <p>
-<img width="200" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/tree/main/Homework%2004%20-%20Campaign%20Response%20Model/Data_Checking1.PNG">
+<img width="200" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/Data_Checking1.PNG">
 <img width="300" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/tree/main/Homework%2004%20-%20Campaign%20Response%20Model/Data_Checking2.PNG">
 </p>
 
