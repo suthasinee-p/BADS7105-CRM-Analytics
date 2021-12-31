@@ -1,5 +1,5 @@
-#Dashboard showing details about shopping mall information.
-##Source : Supermarket Data (Supermarket Data).hyper
+# Dashboard showing details about shopping mall information.
+## Source : Supermarket Data (Supermarket Data).hyper
 
 - Sheet Chk Member : Shows the number of members and non-members in each region.
 - Sheet Not Member : The number of non-member customers in each branch is divided by BASKET_PRICE_SENSITIVITY.
