@@ -40,18 +40,18 @@ Details   : 125001 rows, 3 columns
 <b>Process ML - Logistic Regression with RMF and CLV</b>
 
 - Running with LR RFM
-<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/images/log1.PNG">
+<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/log1.PNG">
 - Running with LR CLV
-<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/images/log2.PNG">
+<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/log2.PNG">
 
 <b>Process ML - XGBoost with RMF and CLV</b>
 
 - Running with XGBoost RFM
-<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/images/xg1.PNG">
+<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/xg1.PNG">
 - Running with XGBoost CLV
-<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/images/xg2.PNG">
+<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/xg2.PNG">
 - Running with XGBoost Tuning
-<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/images/xg3.PNG">
+<img width="400" src="https://github.com/suthasinee-p/BADS7105-CRM-Analytics/blob/main/Homework%2004%20-%20Campaign%20Response%20Model/images/xg3.PNG">
 
 <b>Best Model</b>
 
